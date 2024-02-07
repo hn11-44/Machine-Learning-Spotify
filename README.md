@@ -17,5 +17,3 @@ This project involves extensive application of Ridge Regression and a brief expl
 - **Exploratory Data Analysis and Analysis**: These folders contain annotated code and documents.
 - **Spotify_Codes.py**: This file contains custom code used in the project.
 - **Spotify Report.pdf**: This is the final report of the project.
-
-Please review the code and report for more details about the project.
